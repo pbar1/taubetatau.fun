@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter - Dimension V2",
-    author: "Hunter Chang",
-    description: "A Gatsby.js V2 Starter based on Dimension by HTML5 UP"
+    title: "Tau Beta Tau",
+    author: "Pierce Bartine",
+    description: "Official website of the Tau Beta Tau Chalupa Chapter"
   },
   plugins: [
     'gatsby-plugin-react-helmet',

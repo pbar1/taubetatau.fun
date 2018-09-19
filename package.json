@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-dimension-v2",
-  "description": "Gatsby Starter - Dimension V2",
+  "name": "taubetatau",
+  "description": "Tau Beta Tau",
   "version": "1.0.0",
-  "author": "Hunter Chang",
+  "author": "Pierce Bartine",
   "dependencies": {
     "gatsby": "next",
     "gatsby-plugin-manifest": "next",
@@ -28,6 +28,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/pbar1/taubetatau.fun"
   }
 }
